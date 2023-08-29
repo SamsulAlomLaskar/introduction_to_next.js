@@ -1,5 +1,3 @@
-import React from "react";
-
 function DetailsPage() {
   return <h1>The Details Page</h1>;
 }
