@@ -5,3 +5,5 @@ function DetailsPage() {
 }
 
 export default DetailsPage;
+
+// dynamic - routing/path with the help of []
